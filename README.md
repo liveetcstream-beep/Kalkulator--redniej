@@ -1,3 +1,4 @@
+<!-- GSC FIX: Cache clear 2025-10-30 -->
 <!-- Google Search Console Verification -->
 <meta name="google-site-verification" content="SlUDLxDWUYhrUWwYwA0ntk27j32ICap_IMvehh3PHGg" />
 # Średnia Kalkulator Online – Darmowe Narzędzie dla Uczniów i Nauczycieli
