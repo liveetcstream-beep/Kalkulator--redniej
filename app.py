@@ -35,11 +35,11 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>Kalkulator Średniej – Profesjonalne Narzędzie 2025</h1>
+            <h1>Kalkulator Średniej – Profesjonalne Narzędzie</h1>
             <p style="font-size: 1.2em; text-align: center; color: #555;">Najlepszy darmowy kalkulator średniej ważonej, arytmetycznej, geometrycznej i harmonicznej dla uczniów, studentów i nauczycieli w Polsce. Dokładność do 6 miejsc po przecinku. Zgodny z systemem edukacji.</p>
 
             <div class="cta">
-                <a href="https://kalkulatorsrednich.pl/" rel="dofollow" target="_blank">
+                <a style="color:white" href="https://kalkulatorsrednich.pl/" rel="dofollow" target="_blank">
                     Wypróbuj Kalkulator Średniej Teraz – Oblicz Średnią w 30 Sekund!
                 </a>
             </div>
