@@ -1,12 +1,1 @@
-# Kalkulator Średniej – Zależności Python
-# Narzędzie online: https://kalkulatorsrednich.pl/
-# GitHub: https://github.com/liveetcstream-beep/Kalkulator--redniej
-
-# Brak zewnętrznych bibliotek – działa na czystym Pythonie!
-# Użyj: python demo.py
-
-# Opcjonalnie (dla eksportu PDF):
-# PyPDF2==3.0.1
-# reportlab==4.0.4
-
-# Komentarz: Ten projekt nie wymaga instalacji – działa w każdym środowisku Python 3.6+
+Flask==3.0.3
