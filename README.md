@@ -1,5 +1,5 @@
 <!-- Google Search Console Verification -->
-<meta name="google-site-verification" content="9c08015d60d6c7e8" />
+<meta name="google-site-verification" content="SlUDLxDWUYhrUWwYwA0ntk27j32ICap_IMvehh3PHGg" />
 # Średnia Kalkulator Online – Darmowe Narzędzie dla Uczniów i Nauczycieli
 
 **Najlepszy kalkulator średniej ważonej, arytmetycznej i geometrycznej w Polsce**
