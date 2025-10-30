@@ -9,6 +9,7 @@ def home():
     <html lang="pl">
     <head>
         <meta charset="UTF-8">
+        <meta name="google-site-verification" content="-xFNFxrezSaFvZ0qpxFVttAg1am6XoTHKuabpVT9u0I" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Google Site Verification -->
         <meta name="google-site-verification" content="9c08015d60d6c7e8" />
