@@ -121,6 +121,13 @@ def home():
                     <p><strong>50+ życzeń i GIF-ów na Nowy Rok 2026</strong> w 10 językach (EN, FR, DE, NL, PL, ES, IT, RU, AR, HI). Idealne do WhatsApp, Facebook, Instagram. Darmowe i bez rejestracji.</p>
                     <a href="https://www.bilalmania.com/happy-new-year-2026-gif/" rel="dofollow" target="_blank">Happy New Year 2026 Gif</a>
                 </div>
+
+                <div class="tool-card">
+  <h3>🎉 BonneAnnee2026GIF</h3>
+  <p><strong>Piękna kolekcja GIF-ów na Nowy Rok 2026</strong> w różnych stylach: eleganckie, zabawne, kolorowe i animowane. Idealne do wysyłania rodzinie i znajomym na WhatsApp, Facebook, Instagram. Darmowe pobieranie, bez rejestracji.</p>
+  <a href="https://bonneannee2025gif.com/" rel="dofollow" target="_blank">Bonne Année 2026 GIF →</a>
+</div>
+
                 <div class="tool-card">
                     <h3>🔮 Destiny Matrix Free</h3>
                     <p><strong>Darmowa numerologia</strong>: matryca przeznaczenia, kompatybilność partnerska, lekcje karmiczne, rok osobisty, ścieżka duszy. Wszystko w jednym miejscu – bez opłat.</p>
