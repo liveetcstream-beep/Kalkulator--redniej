@@ -119,7 +119,7 @@ def home():
                 <div class="tool-card">
                     <h3>🎉 BilalMania</h3>
                     <p><strong>50+ życzeń i GIF-ów na Nowy Rok 2026</strong> w 10 językach (EN, FR, DE, NL, PL, ES, IT, RU, AR, HI). Idealne do WhatsApp, Facebook, Instagram. Darmowe i bez rejestracji.</p>
-                    <a href="https://bilalmania.com/" rel="dofollow" target="_blank">Pobierz życzenia i GIF-y</a>
+                    <a href="https://www.bilalmania.com/happy-new-year-2026-gif/" rel="dofollow" target="_blank">Happy New Year 2026 Gif</a>
                 </div>
                 <div class="tool-card">
                     <h3>🔮 Destiny Matrix Free</h3>
